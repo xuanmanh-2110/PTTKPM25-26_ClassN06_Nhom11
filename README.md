@@ -131,7 +131,7 @@ Dự án "FlowerShop" là một ứng dụng web thương mại điện tử chu
 - **MySQL**: >= 8.0 (hoặc PostgreSQL >= 13.0)
 - **Web Server**: Apache/Nginx
 
-## 📝 Sơ đồ Use Case
+## � Sơ đồ Use Case
 
 ## � Hướng dẫn cài đặt
 
