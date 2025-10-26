@@ -259,7 +259,6 @@ flowershop/
 │       ├── profile/
 │       ├── welcome.blade.php
 │       └── checkout.blade.php
-
 ├── routes/
 |   ├── api.php
 |   ├── console.php
