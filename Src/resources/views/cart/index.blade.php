@@ -1,8 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-<button onclick="window.history.back()" class="inline-block bg-rose-100 hover:bg-rose-200 text-rose-600 font-bold py-2 px-4 rounded-md shadow-md transition-colors duration-200 mb-4 ml-4">
-  ← Quay lại trang trước
+<button onclick="window.location.href='http://127.0.0.1:8000/'" class="inline-block bg-rose-100 hover:bg-rose-200 text-rose-600 font-bold py-2 px-4 rounded-md shadow-md transition-colors duration-200 mb-4 ml-4">
+  ← Quay lại trang chính
 </button>
 <div class="max-w-4xl mx-auto my-8 p-6 bg-white rounded-lg shadow-md">
     <h2 class="text-3xl font-bold text-rose-600 mb-6 text-center">Giỏ hàng</h2>
