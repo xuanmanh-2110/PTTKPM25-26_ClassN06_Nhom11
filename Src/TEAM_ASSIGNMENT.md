@@ -1,4 +1,4 @@
-# 🌸 Kế hoạch Phân chia Dự án FlowerShop cho 5 Người
+# 🌸 Kế hoạch Phân chia Dự án FlowerShop
 
 ## 📋 Tổng quan Dự án
 
@@ -281,11 +281,6 @@ feature/cart-checkout       # Người C
 feature/order-management    # Người D
 feature/admin-dashboard     # Người E
 ```
-
-### Testing Standards
-- **Unit Tests:** Mỗi service class phải có ≥80% coverage
-- **Feature Tests:** Mỗi controller method phải có test
-- **Integration Tests:** Người E chịu trách nhiệm end-to-end testing
 
 ### Code Review Process
 1. Tạo PR từ feature branch
